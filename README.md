@@ -1,5 +1,8 @@
 ![Zama Concrete ML](https://user-images.githubusercontent.com/5758427/215489512-998b715c-9dd7-421a-b09a-5d15d797e237.png)
 <div align="center">
+  <a href="https://github.com/zama-ai/concrete-ml/releases"><img src="https://img.shields.io/github/v/release/zama-ai/concrete-ml?style=flat-square"></a>
+  <br />
+  <br />
   <a href="https://zama.ai">Website</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://docs.zama.ai/concrete-ml">Documentation</a>
