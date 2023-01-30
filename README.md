@@ -17,7 +17,7 @@
 - [Main features](#Main-features)
 - [Installation](#Installation)
 - [Quick example](#Quick-example)
-- [Documentation](#Documentation)
+- [Bounty Program: contribute to our library and get rewarded $](#Bounty-program)
 - [Online demos and tutorials](#Online-demos-and-tutorials)
 - [Citing Concrete-ML](#Citing-Concrete-ML)
 - [Need support?](#Need-support)
@@ -68,6 +68,10 @@ pip install concrete-ml
 ```
 
 You can find more detailed installation instructions in [this part of the documentation](docs/getting-started/pip_installing.md)
+
+## The Zama Bounty Program
+As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we started this program to encourage anyone from the community to contribute to our libraries and help us move the space forward.
+- Check out the Machine Learning bounties available [here](https://github.com/zama-ai/bounty-program)
 
 ## A simple Concrete-ML example with scikit-learn.
 
@@ -153,7 +157,7 @@ To cite Concrete-ML, notably in academic papers, please use the following entry,
 ## Need support?
 
 <a target="_blank" href="https://community.zama.ai">
-  <img src="https://user-images.githubusercontent.com/5758427/191792238-b132e413-05f9-4fee-bee3-1371f3d81c28.png">
+  <img src="https://user-images.githubusercontent.com/5758427/215527487-7ef2921a-a81b-4581-874a-2139a1efe238.png">
 </a>
 
 ## License.
