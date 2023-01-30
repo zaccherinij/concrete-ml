@@ -1,6 +1,11 @@
 ![Zama Concrete ML](https://user-images.githubusercontent.com/5758427/215489512-998b715c-9dd7-421a-b09a-5d15d797e237.png)
 <div align="center">
   <a href="https://github.com/zama-ai/concrete-ml/releases"><img src="https://img.shields.io/github/v/release/zama-ai/concrete-ml?style=flat-square"></a>
+  <a href="https://community.zama.ai/c/concrete-ml"><img src="https://img.shields.io/badge/community%20forum-online-brightgreen?style=flat-square"></a>
+  <!-- Open source badge using shields.io -->
+  <a href="https://docs.zama.ai/concrete-ml/developer-guide/contributing">
+    <img src="https://img.shields.io/badge/open%20source-contributing.md-yellow?style=flat-square">
+  </a>
   <br />
   <br />
   <a href="https://zama.ai">Website</a>
@@ -13,11 +18,12 @@
 </div>
 
 ## Table of content
+
 - [Introduction](#Introduction)
 - [Main features](#Main-features)
 - [Installation](#Installation)
 - [Quick example](#Quick-example)
-- [Bounty Program: contribute to our library and get rewarded $](#Bounty-program)
+- [Bounty Program: contribute to our library and get rewarded $](#The-Zama-Bounty-program)
 - [Online demos and tutorials](#Online-demos-and-tutorials)
 - [Citing Concrete-ML](#Citing-Concrete-ML)
 - [Need support?](#Need-support)
@@ -25,6 +31,7 @@
 
 
 ## Introduction
+
 Concrete-ML is a Privacy-Preserving Machine Learning (PPML) open-source set of tools built on top of [The Concrete Framework](https://github.com/zama-ai/concrete) by [Zama](https://github.com/zama-ai). It aims to simplify the use of fully homomorphic encryption (FHE) for data scientists to help them automatically turn machine learning models into their homomorphic equivalent. Concrete-ML was designed with ease-of-use in mind, so that data scientists can use it without knowledge of cryptography. Notably, the Concrete-ML model classes are similar to those in scikit-learn and it is also possible to convert PyTorch models to FHE.
 
 ## Main features.
@@ -70,8 +77,10 @@ pip install concrete-ml
 You can find more detailed installation instructions in [this part of the documentation](docs/getting-started/pip_installing.md)
 
 ## The Zama Bounty Program
+
 As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we started this program to encourage anyone from the community to contribute to our libraries and help us move the space forward.
-- Check out the Machine Learning bounties available [here](https://github.com/zama-ai/bounty-program)
+
+Check out the Machine Learning bounties available [here](https://github.com/zama-ai/bounty-program)
 
 ## A simple Concrete-ML example with scikit-learn.
 
