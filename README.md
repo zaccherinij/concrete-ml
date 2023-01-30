@@ -15,7 +15,7 @@
 - [Installation](#Installation)
 - [Quick example](#Quick-example)
 - [Documentation](#Documentation)
-- [Online demos and tutorials](#Online-demos-and-tutorils)
+- [Online demos and tutorials](#Online-demos-and-tutorials)
 - [Citing Concrete-ML](#Citing-Concrete-ML)
 - [Need support?](#Need-support)
 
