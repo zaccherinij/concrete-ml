@@ -164,6 +164,8 @@ To cite Concrete-ML, notably in academic papers, please use the following entry,
   <img src="https://user-images.githubusercontent.com/5758427/215527487-7ef2921a-a81b-4581-874a-2139a1efe238.png">
 </a>
 
+There are many ways to contact the Zama team and discuss FHE use cases, potential partnership or any other matter. You can head over to the Zama community page here](https://zama.ai/community).
+
 ## License.
 
 This software is distributed under the BSD-3-Clause-Clear license. If you have any questions, please contact us at hello@zama.ai.
