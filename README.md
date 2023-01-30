@@ -17,20 +17,20 @@
   <hr />
 </div>
 
-## Table of content
+## Table of content.
 
 - [Introduction](#Introduction)
 - [Main features](#Main-features)
 - [Installation](#Installation)
-- [Quick example](#Quick-example)
-- [Bounty Program: contribute to our library and get rewarded $](#The-Zama-Bounty-program)
+- [A complete tutorial](#A-complete-tutorial)
+- [Bounty Program: contribute to our library and get rewarded](#The-Zama-Bounty-program)
 - [Online demos and tutorials](#Online-demos-and-tutorials)
 - [Citing Concrete-ML](#Citing-Concrete-ML)
 - [Need support?](#Need-support)
 - [License](#License)
 
 
-## Introduction
+## Introduction.
 
 Concrete-ML is a Privacy-Preserving Machine Learning (PPML) open-source set of tools built on top of [The Concrete Framework](https://github.com/zama-ai/concrete) by [Zama](https://github.com/zama-ai). It aims to simplify the use of fully homomorphic encryption (FHE) for data scientists to help them automatically turn machine learning models into their homomorphic equivalent. Concrete-ML was designed with ease-of-use in mind, so that data scientists can use it without knowledge of cryptography. Notably, the Concrete-ML model classes are similar to those in scikit-learn and it is also possible to convert PyTorch models to FHE.
 
@@ -76,13 +76,7 @@ pip install concrete-ml
 
 You can find more detailed installation instructions in [this part of the documentation](docs/getting-started/pip_installing.md)
 
-## The Zama Bounty Program
-
-As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we started this program to encourage anyone from the community to contribute to our libraries and help us move the space forward.
-
-Check out the Machine Learning bounties available [here](https://github.com/zama-ai/bounty-program)
-
-## A simple Concrete-ML example with scikit-learn.
+## A complete tutorial.
 
 A simple example which is very close to scikit-learn is as follows, for a logistic regression :
 
@@ -126,9 +120,11 @@ This example is explained in more detail in the [linear model documentation](doc
 have APIs that are almost identical to their scikit-learn counterparts. It is also possible to convert PyTorch networks to FHE with the Concrete-ML conversion APIs. Please refer to the [linear models](docs/built-in-models/linear.md), [tree-based models](docs/built-in-models/tree.md) and [neural networks](docs/built-in-models/neural-networks.md) documentation for more examples, showing the scikit-learn-like API of the built-in
 models.
 
-## Documentation.
+## The Zama Bounty Program.
 
-Full, comprehensive documentation is available here: [https://docs.zama.ai/concrete-ml](https://docs.zama.ai/concrete-ml).
+As an open source company working on Fully Homomorphic Encryption (FHE) and open source cryptographic tools that make protecting privacy easy, we started this program to encourage anyone from the community to contribute to our libraries and help us move the space forward.
+
+Check out the Machine Learning bounties available [here](https://github.com/zama-ai/bounty-program)
 
 ## Online demos and tutorials.
 
@@ -150,7 +146,7 @@ Various tutorials are proposed for the [built-in models](docs/built-in-models/ml
 
 More generally, if you have built awesome projects using Concrete-ML, feel free to let us know and we'll link to it!
 
-## Citing Concrete-ML
+## Citing Concrete-ML.
 
 To cite Concrete-ML, notably in academic papers, please use the following entry, which list authors by order of first commit:
 
